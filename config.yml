@@ -1,0 +1,7 @@
+test:
+  PATH_FILES:
+    USER_BEHAVIOR: "proyects/project_9 MachineLearning/files/users_behavior.csv"
+
+pro:
+  PATH_FILES:
+    USER_BEHAVIOR: "/datasets/users_behavior.csv"
